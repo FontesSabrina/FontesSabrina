@@ -1,3 +1,5 @@
+👋 Oi, eu sou a Sabrina e seja bem-vinda ao meu GitHub! Aqui você vai encontrar um pouquinho sobre mim.
+
 👩‍💻 Estudante de Gestão de Tecnologia da Informação | 🌐 Apaixonada por tecnologia e inovação  
 
 🎓 Atualmente cursando GTI, busco expandir meus conhecimentos em desenvolvimento de software, análise de dados e gestão de projetos.  
