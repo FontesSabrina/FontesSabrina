@@ -4,7 +4,7 @@
 
 💡 Sempre em busca de novos desafios e aprendizados, adoro colaborar em projetos open-source e contribuir para comunidades tecnológicas.  
 
-🚀 Habilidades: SQL | HTML/CSS   
+🚀 Habilidades: SQL | HTML/CSS |Banco de dado  
 
 ✨ Estou sempre aberta a colaborações e novas experiências! Vamos conectar!  
 
