@@ -1,7 +1,6 @@
-![Hello World! Welcome to My Corner.](["C:\Users\Sabrina\Downloads\Hello World! Welcome to My Corner..jpg"](https://github.com/FontesSabrina/FontesSabrina/issues/1#issue-3446028956))
 
 
-
+![Banner do Meu Perfil](https://github.com/FontesSabrina/FontesSabrina/issues/1#issue-3446028956)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FontesSabrina/FontesSabrina/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FontesSabrina/FontesSabrina/output/pacman-contribution-graph.svg">
