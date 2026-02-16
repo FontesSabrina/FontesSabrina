@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/154d896a-0639-4402-990a-117565df4b68" width="100%" alt="Hello World Banner" />
+  <img src="O_LINK_NOVO_QUE_VAI_APARECER_AQUI" width="100%" alt="Banner" />
 
   <br><br>
 
